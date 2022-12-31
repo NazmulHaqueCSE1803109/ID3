@@ -1,0 +1,4 @@
+1. how to load a dataset as csv file in python?
+2. how to extract each of the row and column in python?
+3. How count distinguished elements?
+4. And basic syntax of python!!
